@@ -1,0 +1,2 @@
+# AiGenExperiments
+Gen AI experimenting 
